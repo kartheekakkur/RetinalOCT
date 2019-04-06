@@ -11,7 +11,7 @@ Optical coherence tomography (OCT) is a non-invasive imaging test. OCT uses ligh
 With OCT, your ophthalmologist can see each of the retina’s distinctive layers.  This allows your ophthalmologist to map and measure their thickness. These measurements help with diagnosis. They also provide treatment guidance for glaucoma and diseases of the retina. These retinal diseases include age-related macular degeneration (AMD) and diabetic eye disease.
 Retinal optical coherence tomography (OCT) is an imaging technique used to capture high-resolution cross sections of the retinas of living patients. Approximately 30 million OCT scans are performed each year, and the analysis and interpretation of these images takes up a significant amount of time (Swanson and Fujimoto, 2017).
 
-![alt txt] (https://github.com/kartheekakkur/RetinalOCT/blob/master/fSTeZMd.png)
+- ![picture] (https://github.com/kartheekakkur/RetinalOCT/blob/master/fSTeZMd.png)
  
 (A) (Far left) choroidal neovascularization (CNV) with neovascular membrane (white arrowheads) and associated subretinal fluid (arrows). (Middle left) Diabetic macular edema (DME) with retinal-thickening-associated intraretinal fluid (arrows). (Middle right) Multiple drusen (arrowheads) present in early AMD. (Far right) Normal retina with preserved foveal contour and absence of any retinal fluid/edema.
 Citations:
