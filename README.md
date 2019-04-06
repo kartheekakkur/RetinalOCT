@@ -14,7 +14,8 @@ Retinal optical coherence tomography (OCT) is an imaging technique used to captu
 ![fSTeZMd](https://user-images.githubusercontent.com/43079315/55676086-11962480-5893-11e9-8447-09a4dc0df3b5.png)
  
 (A) (Far left) choroidal neovascularization (CNV) with neovascular membrane (white arrowheads) and associated subretinal fluid (arrows). (Middle left) Diabetic macular edema (DME) with retinal-thickening-associated intraretinal fluid (arrows). (Middle right) Multiple drusen (arrowheads) present in early AMD. (Far right) Normal retina with preserved foveal contour and absence of any retinal fluid/edema.
-Citations:
+
+#### Citations:
 Mooney, Paul. “Retinal OCT Images (Optical Coherence Tomography).” Kaggle, 25 Mar. 2018, www.kaggle.com/paultimothymooney/kermany2018.
 “Optical Coherence Tomography.” EyeWiki, 20 Jan. 2015, eyewiki.aao.org/Optical_Coherence_Tomography.
 Kermany, D.S., Goldbaum, M., Cai, W., Valentim, C.C.S., Liang, H., Baxter, S.L., McKeown, A., Yang, G., Wu, X., Yan, F., Dong, J., Prasadha, M.K., Pei, J., Ting, M.Y.L., Zhu, J., Li, C., Hewett, S., Dong, J., Ziyar, I., Shi, A., Zhang, R., Zheng, L., Hou, R., Shi, W., Fu, X., Duan, Y., Huu, V.A.N., Wen, C., Zhang, E.D., Zhang, C.L., Li, O., Wang, X., Singer, M.A., Sun, X., Xu, J., Tafreshi, A., Lewis, M.A., Xia, H. and Zhang, K. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, [online] 172(5), p.1122–1131.e9. Available at: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5 [Accessed 6 Apr. 2019].
