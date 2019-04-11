@@ -19,7 +19,6 @@ Retinal optical coherence tomography (OCT) is an imaging technique used to captu
 #### Citations:
 Mooney, Paul. “Retinal OCT Images (Optical Coherence Tomography).” Kaggle, 25 Mar. 2018, www.kaggle.com/paultimothymooney/kermany2018.
 “Optical Coherence Tomography.” EyeWiki, 20 Jan. 2015, eyewiki.aao.org/Optical_Coherence_Tomography.
-
 Kermany, D.S., Goldbaum, M., Cai, W., Valentim, C.C.S., Liang, H., Baxter, S.L., McKeown, A., Yang, G., Wu, X., Yan, F., Dong, J., Prasadha, M.K., Pei, J., Ting, M.Y.L., Zhu, J., Li, C., Hewett, S., Dong, J., Ziyar, I., Shi, A., Zhang, R., Zheng, L., Hou, R., Shi, W., Fu, X., Duan, Y., Huu, V.A.N., Wen, C., Zhang, E.D., Zhang, C.L., Li, O., Wang, X., Singer, M.A., Sun, X., Xu, J., Tafreshi, A., Lewis, M.A., Xia, H. and Zhang, K. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, [online] 172(5), p.1122–1131.e9. Available at: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5 [Accessed 6 Apr. 2019].
 
 
@@ -37,3 +36,8 @@ http://dx.doi.org/10.17632/rscbjbr9sj.2#file-9e8f7acf-7d3a-487f-8eb5-0bd3255b968
 
 https://www.kaggle.com/paultimothymooney/kermany2018
 
+#### Software
+
+AWS EC2 Instance- AMI ID Windows_Server-2016-English-Deep-Learning-2019.03.13
+
+Sklearn, Keras, NumPy, Pandas, Matplotlib, Seaborn
