@@ -1,8 +1,7 @@
 # Machine Learning Engineer Nanodegree
-### Capstone Proposal
+### Capstone Project
 Vasudev Kartheek Akkur
 
-April 6th, 2019
 
 ### Proposal
 #### Domain Background
