@@ -2,8 +2,6 @@
 ### Capstone Project
 Vasudev Kartheek Akkur
 
-
-### Proposal
 #### Domain Background
 
 In this Project I will be working the Retinal Optical Coherence Tomography and how it is used to detect different retinal diseases.
